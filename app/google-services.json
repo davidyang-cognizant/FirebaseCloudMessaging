@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297851093135",
+    "project_id": "fcm-codelab-b781c",
+    "storage_bucket": "fcm-codelab-b781c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297851093135:android:096987e616bdd263b9b0fa",
+        "android_client_info": {
+          "package_name": "com.example.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297851093135-eeqf86625jmnt4cqnipiubsuhqqdqlpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd214Ys2PIEHs1G5Kbzcp1fkyKV-7kSVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297851093135-eeqf86625jmnt4cqnipiubsuhqqdqlpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
